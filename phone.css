@@ -1,0 +1,34 @@
+.container .navbar ul{
+    margin: 0;
+}
+.container .navbar ul li a{
+    font-size: 10px;
+}
+.container .navbar ul li a:hover{
+    font-size: 9px;
+}
+.container1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 23rem;
+    max-height: 100rem;
+    padding: 20px;
+}
+.container2 .icons .img1{
+    width: 3rem;
+}
+.container2 .icons .img2,.img3,.img4{
+    width: 4rem;
+}
+.container3 .loginbox input{
+    border-radius: 5px;
+    padding: 3px 3rem 3px 3px;
+}
+.container3 .loginbox .int{
+    padding: 3px 3rem 5rem 3px;
+}
+
+
+
